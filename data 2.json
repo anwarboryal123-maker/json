@@ -1,0 +1,26 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "parasyte the maxim",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "progress": 0,
+      "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+      "episodeInfo": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "title": "METAMORPHOSIS",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+      
+    }
+  ]
+}
