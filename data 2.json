@@ -1,5 +1,5 @@
-
-   {
+```json
+{
   "movies": [
     {
       "id": 1,
@@ -20,8 +20,8 @@
       "rating": 8.5,
       "duration": "45 min",
       "overview": "Episode description",
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
-      
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg"
     }
   ]
 }
+```
