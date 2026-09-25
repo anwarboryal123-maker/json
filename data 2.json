@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "parasyte the maxim",
+      "overview": "A mysterious parasite takes over a young man's hand.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -29,6 +30,7 @@
     {
       "id": 1,
       "movieId": 1,
+      "title": "Parasyte The Maxim Trailer",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4"
     }
   ]
