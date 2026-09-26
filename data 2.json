@@ -38,6 +38,16 @@
       "type": "trailer",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
       "duration": "2:15"
+    },
+    {
+      
+       "id": 1,
+      "movieId": 1,
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+      "title": "Parasyte The Maxim Trailer",
+      "type": "trailer",
+      "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
+      "duration": "2:15"
     }
   ],
 
