@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "parasyte the maxim",
+       "type": "Tvshow",
       "overview": "A mysterious parasite takes over a young man's hand.",
       "imageResId": 0,
       "trailerVideo": 0,
