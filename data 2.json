@@ -9,7 +9,8 @@
       "isTop10": true,
       "progress": 0,
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-      "episodeInfo": ""
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
     }
   ],
 
@@ -32,6 +33,33 @@
       "movieId": 1,
       "title": "Parasyte The Maxim Trailer",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4"
+    }
+  ],
+
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Anime"
+    },
+    {
+      "id": 3,
+      "name": "Horror"
+    },
+    {
+      "id": 4,
+      "name": "Fantasy"
+    },
+    {
+      "id": 5,
+      "name": "Comedy"
+    },
+    {
+      "id": 6,
+      "name": "Crime"
     }
   ]
 }
