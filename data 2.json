@@ -1,5 +1,26 @@
 
 {
+  "trailers": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+      "title": "Parasyte The Maxim Trailer",
+      "type": "trailer",
+      "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
+      "duration": "1:51"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
+      "title": "Matilda",
+      "type": "trailer",
+      "videoUrl": "https://archive.org/download/matilda_202601/Matilda%20%281996%29%20Trailer%20.mp4",
+      "duration": "2:15"
+    }
+  ],
+
   "movies": [
     {
       "id": 1,
@@ -26,28 +47,6 @@
       "duration": "45 min",
       "overview": "Episode description",
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg"
-    }
-  ],
-
-  "trailers": [
-    {
-      "id": 1,
-      "movieId": 1,
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
-      "title": "Parasyte The Maxim Trailer",
-      "type": "trailer",
-      "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
-      "duration": "1:51"
-    },
-    {
-      
-       "id": 2,
-      "movieId": 1,
-      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg",
-      "title": "matilda ",
-      "type": "trailer",
-      "videoUrl": "https://archive.org/download/matilda_202601/Matilda%20%281996%29%20Trailer%20.mp4",
-      "duration": "2:15"
     }
   ],
 
@@ -78,3 +77,4 @@
     }
   ]
 }
+
