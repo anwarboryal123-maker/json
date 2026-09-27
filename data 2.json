@@ -41,6 +41,7 @@
     {
       "id": 1,
       "movieId": 1,
+       "season": 1,
       "title": "METAMORPHOSIS",
       "imageResId": 0,
       "rating": 8.5,
