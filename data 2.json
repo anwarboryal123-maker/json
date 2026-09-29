@@ -34,7 +34,24 @@
        "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
+    },
+    {
+       {
+      "id": 2,
+      "title": "Ramaiya vastaviaya",
+      "type": "tv",
+      "overview": "A mysterious parasite takes over a young man's hand.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "progress": 0,
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
+       "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
     }
+
+
   ],
 
   "episodes": [
