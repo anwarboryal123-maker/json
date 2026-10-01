@@ -17,6 +17,16 @@
       "type": "trailer",
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
       "duration": "2:15"
+    },
+    {
+    
+      "id": 3,
+      "movieId": 3,
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTE3MDQwMDAwOF5BMl5BanBnXkFtZTgwMDc5MzMwNjM@._V1_FMjpg_UX1920_.jpg",
+      "title": "Flavors of youth",
+      "type": "trailer",
+      "videoUrl": "https://archive.org/download/flavors-of-youth-official-trailer-hd-netflix-1080-p-hd/Flavors%20of%20Youth%20_%20Official%20Trailer%20%5BHD%5D%20_%20Netflix%281080P_HD%29.mp4",
+      "duration": "2:15"
     }
   ],
 
@@ -51,8 +61,23 @@
       "isTop10": true,
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
+    },
+ {
+      "id": 3,
+      "title": "Flavors of youth",
+     "movieId": 3,
+      "type": "tv",
+      "overview": "A mysterious parasite takes over a young man's hand.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "progress": 0,
+      "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
+       "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
+      "isTop10": true,
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
     }
-
 
   ],
 
