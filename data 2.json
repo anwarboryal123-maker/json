@@ -7,23 +7,22 @@
       "title": "Parasyte The Maxim Trailer",
       "type": "trailer",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
-      "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand."
+      "duration": "2:15"
     },
     {
       "id": 2,
       "movieId": 2,
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/yJA2V29uGOZ2yYhSIGWO7J1HDvX.jpg",
-      "title": "Ramaiya vastaviaya",
+      "title": "Ramaiya Vastavaiya Trailer",
       "type": "trailer",
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
       "duration": "2:15"
     },
     {
-    
       "id": 3,
       "movieId": 3,
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTE3MDQwMDAwOF5BMl5BanBnXkFtZTgwMDc5MzMwNjM@._V1_FMjpg_UX1920_.jpg",
-      "title": "Flavors of youth",
+      "title": "Flavors of Youth Trailer",
       "type": "trailer",
       "videoUrl": "https://archive.org/download/flavors-of-youth-official-trailer-hd-netflix-1080-p-hd/Flavors%20of%20Youth%20_%20Official%20Trailer%20%5BHD%5D%20_%20Netflix%281080P_HD%29.mp4",
       "duration": "2:15"
@@ -32,17 +31,16 @@
       "id": 4,
       "movieId": 4,
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
-      "title": "Terminator Sarah Connor Chronicles ",
+      "title": "Terminator Sarah Connor Chronicles Trailer",
       "type": "trailer",
       "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
       "duration": "2:15"
-    },
+    }
   ],
-
   "movies": [
     {
       "id": 1,
-      "title": "parasyte the maxim",
+      "title": "Parasyte The Maxim",
       "type": "tv",
       "overview": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand.",
       "imageResId": 0,
@@ -50,61 +48,56 @@
       "isTop10": true,
       "progress": 0,
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
+      "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
     },
-    
-       {
+    {
       "id": 2,
-      "title": "Ramaiya vastaviaya",
-     "movieId": 2,
+      "title": "Ramaiya Vastavaiya",
+      "movieId": 2,
       "type": "tv",
-      "overview": "A mysterious parasite takes over a young man's hand.",
+      "overview": "A young man from Australia travels to India to win over the family of the woman he loves, navigating cultural differences and family expectations.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
-       "bannerUrl": "https://image.tmdb.org/t/p/original/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
-      "isTop10": true,
+      "bannerUrl": "https://media.themoviedb.org/t/p/original/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
       "episodeInfo": "",
-      "genreIds": [1, 2, 3]
+      "genreIds": [5]
     },
- {
+    {
       "id": 3,
-      "title": "Flavors of youth",
-     "movieId": 3,
+      "title": "Flavors of Youth",
+      "movieId": 3,
+      "type": "tv",
+      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "progress": 0,
+      "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
+      "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
+      "episodeInfo": "",
+      "genreIds": [4]
+    },
+    {
+      "id": 4,
+      "title": "Terminator Sarah Connor Chronicles",
+      "movieId": 4,
       "type": "tv",
       "overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
       "progress": 0,
-      "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
-       "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
-      "isTop10": true,
-      "episodeInfo": "",
-      "genreIds": [1, 2, 3]
-    },
-    {
-      "id": 4,
-      "title": "Terminator Sarah Connor Chronicles",
-     "movieId": 4,
-      "type": "tv",
-      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
-      "imageResId": 0,
-      "trailerVideo": 0,
-      "isTop10": true,
-      "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
-       "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
-      "isTop10": true,
+      "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
       "episodeInfo": "",
-      "genreIds": [1, 2, 3]
+      "genreIds": [1, 4]
     }
   ],
-
   "episodes": [
     {
       "id": 1,
@@ -173,7 +166,6 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg"
     }
   ],
-
   "genres": [
     {
       "id": 1,
