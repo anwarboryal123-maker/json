@@ -27,7 +27,16 @@
       "type": "trailer",
       "videoUrl": "https://archive.org/download/flavors-of-youth-official-trailer-hd-netflix-1080-p-hd/Flavors%20of%20Youth%20_%20Official%20Trailer%20%5BHD%5D%20_%20Netflix%281080P_HD%29.mp4",
       "duration": "2:15"
-    }
+    },
+    {
+      "id": 4,
+      "movieId": 4,
+      "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
+      "title": "Terminator Sarah Connor Chronicles ",
+      "type": "trailer",
+      "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
+      "duration": "2:15"
+    },
   ],
 
   "movies": [
@@ -67,7 +76,7 @@
       "title": "Flavors of youth",
      "movieId": 3,
       "type": "tv",
-      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
+      "overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -77,8 +86,23 @@
       "isTop10": true,
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
+    },
+    {
+      "id": 4,
+      "title": "Terminator Sarah Connor Chronicles",
+     "movieId": 4,
+      "type": "tv",
+      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "progress": 0,
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
+       "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
+      "isTop10": true,
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
     }
-
   ],
 
   "episodes": [
