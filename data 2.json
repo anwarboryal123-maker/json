@@ -47,6 +47,7 @@
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "HD",
+      "isNetflixOriginal": false,
       "progress": 0,
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
