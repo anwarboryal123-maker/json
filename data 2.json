@@ -79,6 +79,7 @@
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
+       "isNetflixOriginal": true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
