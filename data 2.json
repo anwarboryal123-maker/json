@@ -123,7 +123,7 @@
       "isTop10": true,
       "quality": "HD",
       "isNetflixOriginal": true,
-      "netflixOriginalBadge": true,
+      "netflixOriginalBadge": false,
       "progress": 0,
       "imageUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
       "bannerUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
