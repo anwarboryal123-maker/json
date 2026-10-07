@@ -101,7 +101,23 @@
       "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
-    }
+    },
+    {
+      "id": 5,
+      "title": "Combodia ",
+      "movieId": 5,
+      "type": "tv",
+      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+       "isNetflixOriginal": true,
+      "progress": 0,
+      "imageUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
+      "bannerUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
+    },
   ],
   "episodes": [
     {
