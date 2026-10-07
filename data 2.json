@@ -7,7 +7,7 @@
       "title": "Parasyte The Maxim Trailer",
       "type": "trailer",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
-      "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets."
+      "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand."
     },
     {
       "id": 2,
@@ -31,7 +31,8 @@
       "id": 4,
       "movieId": 4,
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
-      "title": "Terminator Sarah Connor Chronicles",
+      "title": "Terminator Sarah Connor Chronicles ",
+      "type": "trailer",
       "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
       "duration": "2:15"
     }
@@ -41,13 +42,13 @@
       "id": 1,
       "title": "parasyte the maxim",
       "type": "tv",
-      "overview": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity...",
+      "overview": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "HD",
       "isNetflixOriginal": false,
-      "netflixOriginalBadge": true,
+       "netflixOriginalBadge": true,
       "progress": 0,
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
@@ -56,14 +57,14 @@
     },
     {
       "id": 2,
-      "movieId": 2,
       "title": "Ramaiya vastaviaya",
+      "movieId": 2,
       "type": "tv",
       "overview": "A mysterious parasite takes over a young man's hand.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
-      "quality": "4K",
+       "quality": "4K",
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
       "bannerUrl": "https://image.tmdb.org/t/p/original/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
@@ -75,11 +76,11 @@
       "title": "Flavors of youth",
       "movieId": 3,
       "type": "tv",
-      "overview": "The rigorous city life of China, while bustling and unforgiving...",
+      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
-      "isNetflixOriginal": true,
+       "isNetflixOriginal": true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
@@ -91,7 +92,7 @@
       "title": "Terminator Sarah Connor Chronicles",
       "movieId": 4,
       "type": "tv",
-      "overview": "The series picks up four years after the events of Terminator 2...",
+      "overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -103,40 +104,113 @@
     },
     {
       "id": 5,
-      "title": "Combodia",
+      "title": "Combodia ",
       "movieId": 5,
       "type": "tv",
-      "overview": "The rigorous city life of China...",
+      "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
-      "isNetflixOriginal": true,
+       "isNetflixOriginal": true,
       "progress": 0,
       "imageUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
       "bannerUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
-    }
+    },
   ],
   "episodes": [
     {
       "id": 1,
       "movieId": 1,
       "season": 1,
-      "episodeNumber": 1,
       "title": "METAMORPHOSIS",
+      "imageResId": 0,
       "rating": 8.5,
       "duration": "45 min",
       "overview": "Episode description",
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg"
+    },
+    {
+      "id": 2,
+      "movieId": 1,
+      "season": 1,
+      "title": "THE DEVIL IN THE FLESH",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6xPU5vPmvkrkTqmdpF4JGsDApYp.jpg"
+    },
+    {
+      "id": 3,
+      "movieId": 1,
+      "season": 1,
+      "title": "SYMPOSIUM",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/6iBbBJiZfv1RD5dvg6Y8I5BgkDu.jpg"
+    },
+    {
+      "id": 4,
+      "movieId": 1,
+      "season": 1,
+      "title": "DISHEVELED HAIR",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/c2ZRdFjZ218IoBwKuTUi8tDynoa.jpg"
+    },
+    {
+      "id": 5,
+      "movieId": 1,
+      "season": 1,
+      "title": "THE STRANGER",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/meTyTu5BqCFa9ZxZpWWlAwu5rmh.jpg"
+    },
+    {
+      "id": 6,
+      "movieId": 1,
+      "season": 1,
+      "title": "SUN RISES AGAIN",
+      "imageResId": 0,
+      "rating": 8.5,
+      "duration": "45 min",
+      "overview": "Episode description",
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/hL6wciEKcvF5ZjDJRmp2UeYn5v4.jpg"
     }
   ],
   "genres": [
-    { "id": 1, "name": "Action" },
-    { "id": 2, "name": "Anime" },
-    { "id": 3, "name": "Horror" },
-    { "id": 4, "name": "Fantasy" },
-    { "id": 5, "name": "Comedy" },
-    { "id": 6, "name": "Crime" }
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Anime"
+    },
+    {
+      "id": 3,
+      "name": "Horror"
+    },
+    {
+      "id": 4,
+      "name": "Fantasy"
+    },
+    {
+      "id": 5,
+      "name": "Comedy"
+    },
+    {
+      "id": 6,
+      "name": "Crime"
+    }
   ]
 }
