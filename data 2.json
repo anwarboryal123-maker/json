@@ -6,7 +6,6 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
       "title": "Parasyte The Maxim Trailer",
       "type": "trailer",
-      "type":"shortcut",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
       "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand."
     },
@@ -58,6 +57,17 @@
       "type":"shortcut",
       "videoUrl": "https://archive.org/download/the-dangers-in-my-heart-official-trailer-2-1080-p-hd/The%20Dangers%20in%20My%20Heart%20_%20Official%20Trailer%202%281080P_HD%29.mp4",
       "duration": "2:15"
+    }
+
+    {
+      "id": 7,
+      "movieId": 1,
+      "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
+      "title": "Parasyte The Maxim Trailer",
+      "type": "trailer",
+      "type":"shortcut",
+      "videoUrl": "https://archive.org/download/parasyte-the-maxim-season-1-episode-1-english-dubbed-part-6-16-1080-p-hd/Parasyte%20The%20Maxim%20-%20Season%201%20Episode%201%20_%20English%20Dubbed%20_%20Part%206-16%281080P_HD%29.mp4",
+      "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand."
     }
   ],
 
