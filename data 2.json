@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "movieId": 1,
+      "movieId": 7,
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
       "title": "The Book Thief",
       "types": ["trailer", "shortcut"],
@@ -208,7 +208,7 @@
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/xNqdfSBflOjgZ0Sj7MSYszm4uc4.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
-    },
+    }
   ],
   "genres": [
     {
