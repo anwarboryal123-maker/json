@@ -87,6 +87,7 @@
       "id": 2,
       "movieId": 2,
       "title": "Ramaiya vastaviaya",
+      "recentlyAdded": true ,
       "type": "tv",
       "overview": "A mysterious parasite takes over a young man's hand.",
       "imageResId": 0,
