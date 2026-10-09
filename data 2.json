@@ -6,6 +6,7 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
       "title": "Parasyte The Maxim Trailer",
       "type": "trailer",
+      "type":"shortcut",
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
       "duration": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand."
     },
@@ -15,6 +16,7 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/yJA2V29uGOZ2yYhSIGWO7J1HDvX.jpg",
       "title": "Ramaiya vastaviaya",
       "type": "trailer",
+      "type":"shortcut",
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
       "duration": "2:15"
     },
@@ -24,6 +26,7 @@
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTE3MDQwMDAwOF5BMl5BanBnXkFtZTgwMDc5MzMwNjM@._V1_FMjpg_UX1920_.jpg",
       "title": "Flavors of youth",
       "type": "trailer",
+      "type":"shortcut",
       "videoUrl": "https://archive.org/download/flavors-of-youth-official-trailer-hd-netflix-1080-p-hd/Flavors%20of%20Youth%20_%20Official%20Trailer%20%5BHD%5D%20_%20Netflix%281080P_HD%29.mp4",
       "duration": "2:15"
     },
@@ -33,6 +36,7 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
       "title": "Terminator Sarah Connor Chronicles",
       "type": "trailer",
+      "type":"shortcut",
       "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
       "duration": "2:15"
     },
@@ -41,7 +45,7 @@
       "movieId": 5,
       "imageUrl": "https://i.ytimg.com/vi/AZ_QHfn8eCQ/maxresdefault.jpg",
       "title": "Combodia",
-      "type": "trailer",
+      "type": "shortcut",
       "videoUrl": "https://archive.org/download/combodia-2019-trailer/Combodia%20%282019%29-Trailer%20.mp4",
       "duration": "2:15"
     },
