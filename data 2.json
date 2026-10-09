@@ -68,7 +68,7 @@
       "movieId": 1,
       "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/arFPEDEW4PzPaMBXgTPzJlumfGw.jpg",
       "title": "The Book Thief",
-      "types": ["trailer", "shortcut],
+      "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/the-book-thief-trailer/The%20Book%20Thief%20trailer%20.mp4",
       "duration": "2:30" 
     }
@@ -188,7 +188,27 @@
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/6siiGRfdrKYjkxlgv1KzOK9u6wD.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
-    }
+    },
+    {
+      "id": 7,
+      "movieId": 7,
+      "title": "The Book Thief",
+      "recentlyAdded": true ,
+      "type": "tv",
+       "popularOnNetflix": true,
+      "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "quality": "4K",
+      "isNetflixOriginal": false,
+      "netflixOriginalBadge": false,
+      "progress": 0,
+      "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
+      "bannerUrl": "https://www.themoviedb.org/t/p/w1280/xNqdfSBflOjgZ0Sj7MSYszm4uc4.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
+    },
   ],
   "genres": [
     {
