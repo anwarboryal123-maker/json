@@ -208,6 +208,26 @@
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/xNqdfSBflOjgZ0Sj7MSYszm4uc4.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
+    },
+    {
+      "id": 8,
+      "movieId": 8,
+      "title": "ONE PIECE",
+      "recentlyAdded": true ,
+      "type": "tv",
+       "popularOnNetflix": true,
+      "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "quality": "4K",
+      "isNetflixOriginal": false,
+      "netflixOriginalBadge": false,
+      "progress": 0,
+      "imageUrl": "https://www.themoviedb.org/t/p/w1280/yEtSBgugED8XyhqjcKgF6j2zDMf.jpg",
+      "bannerUrl": "https://www.themoviedb.org/t/p/w1280/g12SnE0xfhbOK4d9ToOGMVoLc9M.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
     }
   ],
   "genres": [
