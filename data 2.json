@@ -71,6 +71,15 @@
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/the-book-thief-trailer/The%20Book%20Thief%20trailer%20.mp4",
       "duration": "2:30" 
+    },
+    {
+      "id": 9,
+      "movieId": 8,
+      "imageUrl": "https://media.themoviedb.org/t/p/w1066_and_h600_face/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+      "title": "The Book Thief",
+      "types": ["trailer", "shortcut"],
+      "videoUrl": "https://archive.org/download/one-piece-trailer-2/one%20piece%20trailer2.mkv",
+      "duration": "2:30" 
     }
   ],
   "movies": [
