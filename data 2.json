@@ -202,7 +202,7 @@
       "isTop10": true,
       "quality": "4K",
       "isNetflixOriginal": false,
-      "netflixOriginalBadge": false,
+      "netflixOriginalBadge":true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/xNqdfSBflOjgZ0Sj7MSYszm4uc4.jpg",
