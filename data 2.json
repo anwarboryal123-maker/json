@@ -235,7 +235,13 @@
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "4K",
-      "isNetflixOriginal": false,
+
+      
+      "releaseYear": 2023,
+  "numberOfSeasons": 2,
+  "numberOfEpisodes": 16,
+      
+      "isNetflixOriginal":true,
       "netflixOriginalBadge": false,
       "progress": 0,
       "imageUrl": "https://www.themoviedb.org/t/p/w1280/yEtSBgugED8XyhqjcKgF6j2zDMf.jpg",
