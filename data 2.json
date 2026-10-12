@@ -264,7 +264,7 @@
       "title": "connect",
       "recentlyAdded": true ,
       "type": "tv",
-       "popularOnNetflix": true,
+       "blockbuster": true,
       "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
       "imageResId": 0,
       "trailerVideo": 0,
@@ -273,11 +273,11 @@
 
       
       "releaseYear": 2023,
-  "numberOfSeasons": 2,
-  "numberOfEpisodes": 16,
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6,
       
-      "isNetflixOriginal":true,
-      "netflixOriginalBadge": false,
+      "isNetflixOriginal":false,
+      "netflixOriginalBadge": true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/ibXJZeHfu5O2tsIzu9HzvVABL96.jpg",
