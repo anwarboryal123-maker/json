@@ -10,7 +10,7 @@
       "duration": "2:15",
        "releaseDate": "25 December 2026",
       "description": "مغامرة جديدة قادمة قريبًا.",
-      "isUpcoming": true
+      "isUpcoming": false
     },
     {
       "id": 2,
@@ -42,6 +42,8 @@
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
       "duration": "2:15",
+      "releaseDate": "25 December 2026",
+      "description": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
       "isUpcoming": true
     },
     {
