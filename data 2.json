@@ -84,6 +84,7 @@
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/the-book-thief-trailer/The%20Book%20Thief%20trailer%20.mp4",
       "duration": "2:30" ,
+      "isAvailable": true,
       "isUpcoming": true
     },
     {
