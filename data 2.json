@@ -297,17 +297,37 @@
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "4K",
-
-      
       "releaseYear": 2023,
   "numberOfSeasons": 1,
-  "numberOfEpisodes": 6,
-      
+  "numberOfEpisodes": 6, 
       "isNetflixOriginal":false,
       "netflixOriginalBadge": true,
       "progress": 0,
       "imageUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/ibXJZeHfu5O2tsIzu9HzvVABL96.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
+    },
+     {
+      "id": 10,
+      "movieId": 10,
+      "title": "The Swiss Family Robinson: Flone of the Mysterious Island ",
+      "recentlyAdded": true ,
+      "type": "tv",
+       "animation": true,
+      "overview": "Flone and her family were on their way to Australia from Switzerland when their ship wrecked and they landed on an inhabited island. Relying on a strong conviction that they will return one day, the Family Robinson made a house on top of a tree and live on whatever resources available to them. Through the cooperation of each and every member, the family managed to survive on the island and eventually did return back to Australia.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "quality": "4K",
+      "releaseYear": 2023,
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6, 
+      "isNetflixOriginal":false,
+      "netflixOriginalBadge": true,
+      "progress": 0,
+      "imageUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
+      "bannerUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
     }
