@@ -7,7 +7,8 @@
       "title": "Parasyte The Maxim Trailer",
       "types": ["trailer"],
       "videoUrl": "https://archive.org/download/parasyte-the-maim-trailler/parasyte%20the%20maim%20Trailler.ia.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": false
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "title": "Ramaiya vastaviaya",
       "types": ["shortcut"],
       "videoUrl": "https://archive.org/download/ramaiya-vastvaiya/ramaiya%20vastvaiya.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": false
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "title": "Flavors of youth",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/flavors-of-youth-official-trailer-hd-netflix-1080-p-hd/Flavors%20of%20Youth%20_%20Official%20Trailer%20%5BHD%5D%20_%20Netflix%281080P_HD%29.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": false
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "title": "Terminator Sarah Connor Chronicles",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/terminator-sarah-connor-chronicles-2008-trailer/Terminator%20Sarah%20Connor%20Chronicles%20%282008%29%20trailer%20.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": true
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "title": "Combodia",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/combodia-2019-trailer/Combodia%20%282019%29-Trailer%20.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": false
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "title": "The Dangers in My Heart",
       "types": ["shortcut"],
       "videoUrl": "https://archive.org/download/the-dangers-in-my-heart-official-trailer-2-1080-p-hd/The%20Dangers%20in%20My%20Heart%20_%20Official%20Trailer%202%281080P_HD%29.mp4",
-      "duration": "2:15"
+      "duration": "2:15",
+      "isUpcoming": true
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "title": "Parasyte The Maxim Trailer",
       "types": ["shortcut"],
       "videoUrl": "https://archive.org/download/parasyte-the-maxim-season-1-episode-1-english-dubbed-part-6-16-1080-p-hd/Parasyte%20The%20Maxim%20-%20Season%201%20Episode%201%20_%20English%20Dubbed%20_%20Part%206-16%281080P_HD%29.mp4",
-      "duration": "24:30" 
+      "duration": "24:30" ,
+      "isUpcoming": true
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "title": "The Book Thief",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/the-book-thief-trailer/The%20Book%20Thief%20trailer%20.mp4",
-      "duration": "2:30" 
+      "duration": "2:30" ,
+      "isUpcoming": true
     },
     {
       "id": 9,
@@ -79,7 +87,8 @@
       "title": "ONE PIECE",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/one-piece-zoro-vs.-mihawk-fight-netflix-1080-p-hd/ONE%20PIECE_%20Zoro%20vs.%20Mihawk%20Fight%20_%20Netflix%281080P_HD%29.mp4",
-      "duration": "2:30" 
+      "duration": "2:30" ,
+      "isUpcoming": true
     },
     {
       "id": 10,
@@ -88,7 +97,8 @@
       "title": "Connect ",
       "types": ["trailer", "shortcut"],
       "videoUrl": "https://archive.org/download/connect-2022-official-trailer-jung-hae-in-go-kyung-pyo-kim-hye-jun-disney-kdrama/Connect%20%EC%BB%A4%EB%84%A5%ED%8A%B8%202022%20Official%20Trailer%20-%20Jung%20Hae%20In%2C%20Go%20Kyung%20Pyo%2C%20Kim%20Hye%20Jun%20-%20Disney%2B%20Kdrama.mkv",
-      "duration": "2:30" 
+      "duration": "2:30" ,
+      "isUpcoming": false
     }
   ],
   "movies": [
