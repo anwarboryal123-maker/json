@@ -44,7 +44,8 @@
       "duration": "2:15",
       "releaseDate": "25 December 2026",
       "description": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under-the-radar from the government, as they plot to destroy the computer network, Skynet, in hopes of preventing Armageddon.",
-      "isUpcoming": true
+      "isUpcoming": true,
+       "isAvailable": true
     },
     {
       "id": 5,
