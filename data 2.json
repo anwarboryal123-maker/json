@@ -117,6 +117,16 @@
       "videoUrl": "https://archive.org/download/1080-p-hd_202610/%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86%20_%20%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA%20%D9%81%D9%84%D9%88%D9%86%D8%A9%20-%20%D8%B4%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%20%F0%9F%8F%B5%281080P_HD%29.mp4",
       "duration": "2:30" ,
       "isUpcoming": false
+    },
+    {
+      "id": 12,
+      "movieId": 11,
+      "imageUrl": "https://cdn.spacetoongo.com/images/cec97-show-cover-mobile-1-.jpg",
+      "title": "The Adventures of Tom Sawyer ",
+      "types": ["trailer", "shortcut"],
+      "videoUrl": "https://archive.org/download/1080-p-hd_20261018/%D9%83%D9%86%D9%88%D8%B2%20%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86%20_%20%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%A3%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%20_%20%D8%B4%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%20_%20%D8%AC%D9%88%D8%AF%D8%A9%20%D8%B9%D8%A7%D9%84%D9%8A%D8%A9%20%F0%9F%8E%B6%281080P_HD%29.mp4",
+      "duration": "2:30" ,
+      "isUpcoming": false
     }
   ],
   "movies": [
@@ -312,6 +322,29 @@
      {
       "id": 10,
       "movieId": 10,
+      "title": ": The Adventures of Tom Sawyer ",
+      "recentlyAdded": true ,
+      "type": "tv",
+       "animation": true,
+      "overview": "Tom Sawyer is a cheerful and adventurous boy who lives in a small town along the Mississippi River. Together with his best friend Huckleberry Finn, he experiences exciting adventures, discovers mysterious secrets, and learns valuable lessons about friendship, courage, and growing up.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "quality": "4K",
+      "releaseYear": 2023,
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 6, 
+      "isNetflixOriginal":false,
+      "netflixOriginalBadge": true,
+      "progress": 0,
+      "imageUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
+      "bannerUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
+      "episodeInfo": "",
+      "genreIds": [1, 2, 3]
+    },
+    {
+      "id": 11,
+      "movieId": 11,
       "title": "The Swiss Family Robinson: Flone of the Mysterious Island ",
       "recentlyAdded": true ,
       "type": "tv",
