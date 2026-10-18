@@ -345,11 +345,11 @@
     {
       "id": 11,
       "movieId": 11,
-      "title": "The Swiss Family Robinson: Flone of the Mysterious Island ",
+      "title": "The Adventures of Tom Sawyer ",
       "recentlyAdded": true ,
       "type": "tv",
        "animation": true,
-      "overview": "Flone and her family were on their way to Australia from Switzerland when their ship wrecked and they landed on an inhabited island. Relying on a strong conviction that they will return one day, the Family Robinson made a house on top of a tree and live on whatever resources available to them. Through the cooperation of each and every member, the family managed to survive on the island and eventually did return back to Australia.",
+      "overview": "Tom Sawyer is a cheerful and adventurous boy who lives in a small town along the Mississippi River. Together with his best friend Huckleberry Finn, he experiences exciting adventures, discovers mysterious secrets, and learns valuable lessons about friendship, courage, and growing up.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -360,8 +360,8 @@
       "isNetflixOriginal":false,
       "netflixOriginalBadge": true,
       "progress": 0,
-      "imageUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
-      "bannerUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
+      "imageUrl": "https://cdn.spacetoongo.com/%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%20poster.jpg",
+      "bannerUrl": "https://cdn.spacetoongo.com/%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%20poster.jpg",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
     }
