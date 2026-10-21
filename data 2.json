@@ -228,6 +228,7 @@
       "title": "Combodia",
       "type": "tv",
     "blockbuster": true,
+      "actionMovie": true,
       "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities follow the loss of youth and the realization of adulthood.",
       "imageResId": 0,
       "trailerVideo": 0,
