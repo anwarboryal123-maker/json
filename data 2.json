@@ -291,6 +291,7 @@
       "recentlyAdded": true ,
       "type": "tv",
        "popularOnNetflix": true,
+       "isNetflixExclusive": true,
       "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
       "imageResId": 0,
       "trailerVideo": 0,
