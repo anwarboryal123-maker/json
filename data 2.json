@@ -340,9 +340,10 @@
      {
       "id": 10,
       "movieId": 10,
-      "title": ": The Adventures of Tom Sawyer ",
+      "title": " The Swiss Family Robinson: Flone of the Mysterious Island  ",
       "recentlyAdded": true ,
       "type": "tv",
+       "Seriesanime": true,
        "animation": true,
       "overview": "Tom Sawyer is a cheerful and adventurous boy who lives in a small town along the Mississippi River. Together with his best friend Huckleberry Finn, he experiences exciting adventures, discovers mysterious secrets, and learns valuable lessons about friendship, courage, and growing up.",
       "imageResId": 0,
