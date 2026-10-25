@@ -72,7 +72,7 @@
       "movieId": 1,
       "imageUrl": "https://media.themoviedb.org/t/p/w454_and_h254_face/avoE8liZAqcSk8LckYixDxiryTE.jpg",
       "title": "Parasyte The Maxim Trailer",
-      "types": ["shortcut"],
+      "types": [""trailer", "shortcut""],
       "videoUrl": "https://archive.org/download/parasyte-the-maxim-season-1-episode-1-english-dubbed-part-6-16-1080-p-hd/Parasyte%20The%20Maxim%20-%20Season%201%20Episode%201%20_%20English%20Dubbed%20_%20Part%206-16%281080P_HD%29.mp4",
       "duration": "24:30" ,
       "isUpcoming": true
