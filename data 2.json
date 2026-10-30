@@ -333,6 +333,7 @@
       "movieId": 10,
       "title": " The Swiss Family Robinson: Flone of the Mysterious Island  ",
       "recentlyAdded": true ,
+       "animationForBeginners": true,
       "type": "tv",
        "Seriesanime": true,
        "animation": true,
