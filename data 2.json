@@ -363,6 +363,8 @@
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "4K",
+       "numberOfSeasons": 1,
+      "numberOfEpisodes": 52,
       "releaseYear": 2005,
       "isNetflixOriginal": false,
       "netflixOriginalBadge": true,
