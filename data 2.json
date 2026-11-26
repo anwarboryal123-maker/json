@@ -381,6 +381,33 @@
       "imageUrl": "https://static.wikia.nocookie.net/international-entertainment-project/images/9/9d/Scan2Go_poster.jpg/revision/latest/scale-to-width-down/1200?cb=20230821144158",
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
+    },
+     {
+      "id": 16,
+      "movieId": 16,
+      "title": " Mr.yassin amri",
+      "title_ar": "الاستاد ياسين العمري ",
+      "title_fr": "Mr.yassin amri",
+      "recentlyAdded": true,
+      "type": "tv",
+      "animationForBeginners": true,
+      "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "overview_ar": "بعد استدعاء والدهما إلى العمل، يُترك والتر وداني الصغيران تحت رعاية أختهما الكبرى ليزا، ويُطلب منهما البقاء في المنزل. يتوقع الاثنان يومًا مملًا، لكنهما يُفاجآن عندما يبدآن لعب لعبة زاثورا الفضائية، ليكتشفا أن لها قوى سحرية بعدما ينطلق منزلهما إلى الفضاء. وبمساعدة رائد فضاء، يحاول الصبيان العودة إلى المنزل.",
+      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
+      "imageResId": 0,
+      "trailerVideo": 0,
+      "isTop10": true,
+      "quality": "4K",
+      "numberOfSeasons": 1,
+      "numberOfEpisodes": 52,
+      "releaseYear": 2005,
+      "isNetflixOriginal": false,
+      "netflixOriginalBadge": true,
+      "progress": 0,
+      "imageUrl": "https://archive.org/download/1795702654161/1795702654161.jpg",
+      "episodeInfo": "",
+       "sheikhs": true ,
+      "genreIds": [1, 2, 3]
     }
   ],
   "genres": [
