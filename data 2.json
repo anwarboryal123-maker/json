@@ -1,13 +1,18 @@
+
 {
   "movies": [
     {
       "id": 1,
       "movieId": 1,
       "title": "parasyte the maxim",
+      "title_ar": "الطفيليات: الحد الأقصى",
+      "title_fr": "Parasite: The Maxim",
       "type": "tv",
       "animation": true,
       "Seriesanime": true,
       "overview": "A species of parasitic aliens descends on Earth and quickly infiltrates humanity by entering the brains of vulnerable targets; insatiable beings that gain total control of their host and are capable of transforming themselves to feed on unsuspecting prey. High school student Shinichi Izumi falls victim to one of these parasites, but the creature fails to take over his brain and ends up in his right hand.",
+      "overview_ar": "ينزل نوع من الكائنات الفضائية الطفيلية إلى الأرض، ويتسلل بسرعة إلى البشر من خلال دخول أدمغة الأشخاص الضعفاء. هذه الكائنات لا تشبع، وتسيطر بالكامل على أجساد مضيفيها، كما تستطيع تغيير أشكالها لافتراس ضحاياها دون سابق إنذار. يصبح طالب الثانوية شينيتشي إيزومي ضحية لأحد هذه الطفيليات، لكنه يفشل في السيطرة على دماغه ويستقر في يده اليمنى.",
+      "overview_fr": "Une espèce de parasites extraterrestres arrive sur Terre et infiltre rapidement l'humanité en pénétrant dans le cerveau de personnes vulnérables. Ces créatures insatiables prennent le contrôle total de leurs hôtes et peuvent se transformer pour dévorer leurs victimes. Shinichi Izumi, un lycéen, devient la cible de l'un de ces parasites, mais celui-ci échoue à prendre le contrôle de son cerveau et finit dans sa main droite.",
       "imageResId": 0,
       "trailerVideo": 0,
       "releaseYear": 2014,
@@ -21,21 +26,21 @@
       "imageUrl": "https://image.tmdb.org/t/p/original/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/zu0tNESIHIfVIaewXx8gnFuBTrd.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 2,
       "movieId": 2,
       "title": "Ramaiya vastaviaya",
+      "title_ar": "رامايا فاستافايا",
+      "title_fr": "Ramaiya Vastavaiya",
       "recentlyAdded": true,
       "type": "tv",
       "popularOnNetflix": true,
       "isNetflixExclusive": true,
       "overview": "A mysterious parasite takes over a young man's hand.",
+      "overview_ar": "يسيطر طفيلي غامض على يد شاب، لتبدأ أحداث غير متوقعة.",
+      "overview_fr": "Un parasite mystérieux prend le contrôle de la main d'un jeune homme.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -46,19 +51,20 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
       "bannerUrl": "https://image.tmdb.org/t/p/original/iSVYJE0Hz4g0SEAGKXA84yhcfPT.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        3
-      ]
+      "genreIds": [1, 3]
     },
     {
       "id": 3,
       "movieId": 3,
       "title": "Flavors of youth",
+      "title_ar": "نكهات الشباب",
+      "title_fr": "Les Saveurs de la jeunesse",
       "type": "tv",
       "animation": true,
       "isNetflixExclusive": true,
       "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, follow the loss of youth and the daunting realization of adulthood. Though reality may seem ever changing, unchangeable are the short-lived moments of childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time. Three different characters explore the strength of bonds and the warmth of cherished memories.",
+      "overview_ar": "رغم صخب الحياة وقسوتها في المدن الصينية، فإنها تحتفظ بذكريات لا تُنسى من الماضي. تحكي ثلاثة قصص في ثلاث مدن مختلفة عن فقدان الشباب ومواجهة حقيقة مرحلة البلوغ. ورغم أن الواقع يتغير باستمرار، تبقى لحظات الطفولة القصيرة راسخة في الذاكرة. من طبق نودلز شهي إلى دفء العائلة وتجارب الحب الأول، تستمر الذكريات الجميلة رغم مرور الزمن. وتستكشف ثلاث شخصيات قوة الروابط الإنسانية ودفء الذكريات الثمينة.",
+      "overview_fr": "Malgré le rythme effréné et impitoyable des villes chinoises, celles-ci conservent les souvenirs précieux du passé. Trois histoires dans trois villes différentes racontent la perte de la jeunesse et la découverte difficile du monde adulte. Même si la réalité change constamment, les courts instants de l'enfance restent inoubliables. Un bol de nouilles, la beauté de la famille et les épreuves du premier amour traversent le temps. Trois personnages découvrent la force des liens et la chaleur des souvenirs précieux.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -69,20 +75,20 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w440_and_h660_face/ueHeH5ergeHx27L4SCI9qlmwczA.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 4,
       "movieId": 4,
       "title": "Terminator Sarah Connor Chronicles",
+      "title_ar": "تيرميناتور: سجلات سارة كونور",
+      "title_fr": "Terminator : Les Chroniques de Sarah Connor",
       "type": "tv",
       "popularOnNetflix": true,
       "actionMovie": true,
       "overview": "The series picks up four years after the events of Terminator 2: Judgment Day with John and Sarah Connor trying to stay under the radar from the government while attempting to destroy the computer network Skynet.",
+      "overview_ar": "تبدأ أحداث المسلسل بعد أربع سنوات من أحداث فيلم تيرميناتور 2: يوم الحساب. يحاول جون وسارة كونور الاختباء من أعين الحكومة، بينما يسعيان إلى تدمير شبكة الكمبيوتر سكاي نت.",
+      "overview_fr": "La série se déroule quatre ans après les événements de Terminator 2 : Le Jugement dernier. John et Sarah Connor tentent d'échapper à la surveillance du gouvernement tout en cherchant à détruire le réseau informatique Skynet.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -93,21 +99,20 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 5,
       "movieId": 5,
       "title": "Combodia",
       "title_ar": "كمبوديا",
+      "title_fr": "Cambodge",
       "type": "tv",
       "blockbuster": true,
       "actionMovie": true,
       "overview": "The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities follow the loss of youth and the realization of adulthood.",
+      "overview_ar": "تحتفظ الحياة الحضرية الصاخبة والقاسية في الصين بذكريات الماضي التي لا تُنسى. وتروي ثلاث قصص تدور في ثلاث مدن مختلفة حكايات فقدان الشباب واكتشاف حقيقة مرحلة البلوغ.",
+      "overview_fr": "La vie urbaine trépidante et impitoyable de la Chine conserve les souvenirs inoubliables du passé. Trois histoires se déroulant dans trois villes différentes racontent la perte de la jeunesse et la découverte de l'âge adulte.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -118,20 +123,20 @@
       "imageUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
       "bannerUrl": "https://aldar.ma/wp-content/uploads/2019/12/437755013335957680.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 6,
       "movieId": 6,
       "title": "The Dangers in My Heart",
+      "title_ar": "المخاطر في قلبي",
+      "title_fr": "Les Dangers dans mon cœur",
       "type": "tv",
       "animation": true,
       "Seriesanime": true,
       "overview": "Kyotaro Ichikawa, a boy barely clinging to the bottom rung of his school's social ladder, secretly believes he’s the tortured lead in some psychological thriller. He spends his days dreaming up ways to disrupt his classmates' peaceful lives and pining after Anna Yamada, the class idol. But Kyotaro's not nearly the troubled teen he pretends to be…and it turns out Anna's a bit odd herself!",
+      "overview_ar": "كيوتارو إيتشيكاوا فتى يعيش في أسفل السلم الاجتماعي لمدرسته، ويعتقد سرًا أنه بطل قصة نفسية مظلمة. يقضي أيامه في تخيل طرق لإزعاج زملائه والتفكير في آنا يامادا، فتاة الصف المحبوبة. لكن كيوتارو ليس مضطربًا كما يدّعي، وتكتشف الأحداث أن آنا نفسها غريبة بعض الشيء!",
+      "overview_fr": "Kyotaro Ichikawa est un garçon situé tout en bas de l'échelle sociale de son école. En secret, il s'imagine être le héros tourmenté d'un thriller psychologique. Il passe ses journées à imaginer comment perturber la vie paisible de ses camarades et rêve d'Anna Yamada, la fille populaire de sa classe. Mais Kyotaro n'est pas aussi perturbé qu'il le prétend, et Anna se révèle elle aussi un peu étrange !",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -142,19 +147,20 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/bC8Bx0VHLZzvPCXzuDnvTIbzVIU.jpg",
       "bannerUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/6siiGRfdrKYjkxlgv1KzOK9u6wD.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        3
-      ]
+      "genreIds": [1, 3]
     },
     {
       "id": 7,
       "movieId": 7,
       "title": "The Book Thief",
+      "title_ar": "سارقة الكتب",
+      "title_fr": "La Voleuse de livres",
       "recentlyAdded": true,
       "type": "tv",
       "popularOnNetflix": true,
       "overview": "While subjected to the horrors of WWII Germany, young Liesel finds solace by stealing books and sharing them with others. Under the stairs in her home, a Jewish refugee is being sheltered by her adoptive parents.",
+      "overview_ar": "وسط أهوال ألمانيا خلال الحرب العالمية الثانية، تجد الفتاة الصغيرة ليزل العزاء في سرقة الكتب ومشاركتها مع الآخرين. وفي منزلها، يخبئ والداها بالتبني لاجئًا يهوديًا تحت الدرج لحمايته.",
+      "overview_fr": "Au milieu des horreurs de l'Allemagne pendant la Seconde Guerre mondiale, la jeune Liesel trouve du réconfort en volant des livres et en les partageant avec les autres. Dans leur maison, ses parents adoptifs cachent un réfugié juif sous l'escalier.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -165,21 +171,21 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/xNqdfSBflOjgZ0Sj7MSYszm4uc4.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        3
-      ]
+      "genreIds": [1, 3]
     },
     {
       "id": 8,
       "movieId": 8,
       "title": "ONE PIECE",
-      "title_ar": "ون بيس ",
+      "title_ar": "ون بيس",
+      "title_fr": "One Piece",
       "recentlyAdded": true,
       "type": "tv",
       "popularOnNetflix": true,
       "isNetflixExclusive": true,
       "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "overview_ar": "ينطلق القرصان الشاب مونكي دي لوفي، مرتديًا قبعته القشية وبرفقة طاقمه المميز، في رحلة ملحمية بحثًا عن الكنز.",
+      "overview_fr": "Avec son chapeau de paille et son équipage atypique, le jeune pirate Monkey D. Luffy part pour une aventure épique à la recherche d'un trésor.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -193,20 +199,20 @@
       "imageUrl": "https://www.themoviedb.org/t/p/w1280/yEtSBgugED8XyhqjcKgF6j2zDMf.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/g12SnE0xfhbOK4d9ToOGMVoLc9M.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 9,
       "movieId": 9,
       "title": "connect",
+      "title_ar": "كونيكت",
+      "title_fr": "Connect",
       "recentlyAdded": true,
       "type": "tv",
       "blockbuster": true,
       "overview": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+      "overview_ar": "ينطلق القرصان الشاب مونكي دي لوفي، مرتديًا قبعته القشية وبرفقة طاقمه المميز، في رحلة ملحمية بحثًا عن الكنز.",
+      "overview_fr": "Avec son chapeau de paille et son équipage atypique, le jeune pirate Monkey D. Luffy part pour une aventure épique à la recherche d'un trésor.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -220,20 +226,21 @@
       "imageUrl": "https://media.themoviedb.org/t/p/w260_and_h390_face/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/ibXJZeHfu5O2tsIzu9HzvVABL96.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        3
-      ]
+      "genreIds": [1, 3]
     },
     {
       "id": 10,
       "movieId": 10,
       "title": "The Swiss Family Robinson: Flone of the Mysterious Island",
+      "title_ar": "عائلة روبنسون السويسرية: فلوني في الجزيرة الغامضة",
+      "title_fr": "La Famille Robinson suisse : Flone de l'île mystérieuse",
       "isNetflixExclusive": false,
       "animationForBeginners": true,
       "animation": true,
       "type": "tv",
       "overview": "Tom Sawyer is a cheerful and adventurous boy who lives in a small town along the Mississippi River. Together with his best friend Huckleberry Finn, he experiences exciting adventures, discovers mysterious secrets, and learns valuable lessons about friendship, courage, and growing up.",
+      "overview_ar": "توم سوير فتى مرح ومحب للمغامرة يعيش في بلدة صغيرة على ضفاف نهر المسيسيبي. يخوض مع صديقه المفضل هاكلبيري فين مغامرات مثيرة، ويكتشفان أسرارًا غامضة ويتعلمان دروسًا مهمة عن الصداقة والشجاعة والنضج.",
+      "overview_fr": "Tom Sawyer est un garçon joyeux et aventureux qui vit dans une petite ville au bord du Mississippi. Avec son meilleur ami Huckleberry Finn, il vit des aventures passionnantes, découvre des secrets mystérieux et apprend de précieuses leçons sur l'amitié, le courage et le passage à l'âge adulte.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -247,21 +254,21 @@
       "imageUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/2Lkrwj4bS9BUJMbUrzQu1fz7ufh.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 11,
       "movieId": 11,
       "title": "The Adventures of Tom Sawyer",
+      "title_ar": "مغامرات توم سوير",
+      "title_fr": "Les Aventures de Tom Sawyer",
       "recentlyAdded": true,
       "type": "tv",
       "animation": true,
       "Seriesanime": true,
       "overview": "Tom Sawyer is a cheerful and adventurous boy who lives in a small town along the Mississippi River. Together with his best friend Huckleberry Finn, he experiences exciting adventures, discovers mysterious secrets, and learns valuable lessons about friendship, courage, and growing up.",
+      "overview_ar": "توم سوير فتى مرح ومحب للمغامرة يعيش في بلدة صغيرة على ضفاف نهر المسيسيبي. يخوض مع صديقه المفضل هاكلبيري فين مغامرات مثيرة، ويكتشفان أسرارًا غامضة ويتعلمان دروسًا مهمة عن الصداقة والشجاعة والنضج.",
+      "overview_fr": "Tom Sawyer est un garçon joyeux et aventureux qui vit dans une petite ville au bord du Mississippi. Avec son meilleur ami Huckleberry Finn, il vit des aventures passionnantes, découvre des secrets mystérieux et apprend de précieuses leçons sur l'amitié, le courage et le passage à l'âge adulte.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -273,20 +280,20 @@
       "imageUrl": "https://cdn.spacetoongo.com/%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%20poster.jpg",
       "bannerUrl": "https://cdn.spacetoongo.com/%D8%B9%D9%87%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B5%D8%AF%D9%82%D8%A7%D8%A1%20poster.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 12,
       "movieId": 12,
       "title": "Zathura A Space Adventure",
+      "title_ar": "زاثورا: مغامرة في الفضاء",
+      "title_fr": "Zathura : Une aventure spatiale",
       "recentlyAdded": true,
       "type": "tv",
       "blockbuster": true,
       "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "overview_ar": "بعد استدعاء والدهما إلى العمل، يُترك والتر وداني الصغيران تحت رعاية أختهما الكبرى ليزا، ويُطلب منهما البقاء في المنزل. يتوقع الاثنان يومًا مملًا، لكنهما يُفاجآن عندما يبدآن لعب لعبة زاثورا الفضائية، ليكتشفا أن لها قوى سحرية بعدما ينطلق منزلهما إلى الفضاء. وبمساعدة رائد فضاء، يحاول الصبيان العودة إلى المنزل.",
+      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -298,20 +305,20 @@
       "imageUrl": "https://www.themoviedb.org/t/p/w1280/g0HLEZfqJp5dRxMzkgZwW9puP7N.jpg",
       "bannerUrl": "https://www.themoviedb.org/t/p/w1280/g0HLEZfqJp5dRxMzkgZwW9puP7N.jpg",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 13,
       "movieId": 13,
       "title": "Your brothers",
+      "title_ar": "إخوتك",
+      "title_fr": "Tes frères",
       "recentlyAdded": true,
       "type": "tv",
       "blockbuster": true,
       "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "overview_ar": "بعد استدعاء والدهما إلى العمل، يُترك والتر وداني الصغيران تحت رعاية أختهما الكبرى ليزا، ويُطلب منهما البقاء في المنزل. يتوقع الاثنان يومًا مملًا، لكنهما يُفاجآن عندما يبدآن لعب لعبة زاثورا الفضائية، ليكتشفا أن لها قوى سحرية بعدما ينطلق منزلهما إلى الفضاء. وبمساعدة رائد فضاء، يحاول الصبيان العودة إلى المنزل.",
+      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -323,20 +330,20 @@
       "imageUrl": "https://i.ytimg.com/vi/mSs5-ZnQhzs/hq720.jpg?sqp=-oaymwEYCJUDENAFSFryq4qpAwoIARUAAIhC0AEB&rs=AOn4CLDNXBqJXAvU3cvQ61JKM7muwdwaXQ",
       "bannerUrl": "https://i.ytimg.com/vi/mSs5-ZnQhzs/hq720.jpg?sqp=-oaymwEYCJUDENAFSFryq4qpAwoIARUAAIhC0AEB&rs=AOn4CLDNXBqJXAvU3cvQ61JKM7muwdwaXQ",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
-     {
+    {
       "id": 14,
       "movieId": 14,
       "title": "baba 3li",
+      "title_ar": "بابا علي",
+      "title_fr": "Baba Ali",
       "recentlyAdded": true,
       "type": "tv",
       "blockbuster": true,
       "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "overview_ar": "بعد استدعاء والدهما إلى العمل، يُترك والتر وداني الصغيران تحت رعاية أختهما الكبرى ليزا، ويُطلب منهما البقاء في المنزل. يتوقع الاثنان يومًا مملًا، لكنهما يُفاجآن عندما يبدآن لعب لعبة زاثورا الفضائية، ليكتشفا أن لها قوى سحرية بعدما ينطلق منزلهما إلى الفضاء. وبمساعدة رائد فضاء، يحاول الصبيان العودة إلى المنزل.",
+      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
@@ -347,25 +354,25 @@
       "progress": 0,
       "imageUrl": "https://archive.org/download/1-baba-ali-4-episode-01-1080-p-hd/%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%B9%D9%84%D9%8A.png",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     },
     {
       "id": 15,
       "movieId": 15,
       "title": "scan 2go",
+      "title_ar": "سكان تو غو",
+      "title_fr": "Scan2Go",
       "recentlyAdded": true,
       "type": "tv",
-       "animationForBeginners": true,
+      "animationForBeginners": true,
       "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
+      "overview_ar": "بعد استدعاء والدهما إلى العمل، يُترك والتر وداني الصغيران تحت رعاية أختهما الكبرى ليزا، ويُطلب منهما البقاء في المنزل. يتوقع الاثنان يومًا مملًا، لكنهما يُفاجآن عندما يبدآن لعب لعبة زاثورا الفضائية، ليكتشفا أن لها قوى سحرية بعدما ينطلق منزلهما إلى الفضاء. وبمساعدة رائد فضاء، يحاول الصبيان العودة إلى المنزل.",
+      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
       "imageResId": 0,
       "trailerVideo": 0,
       "isTop10": true,
       "quality": "4K",
-       "numberOfSeasons": 1,
+      "numberOfSeasons": 1,
       "numberOfEpisodes": 52,
       "releaseYear": 2005,
       "isNetflixOriginal": false,
@@ -373,37 +380,46 @@
       "progress": 0,
       "imageUrl": "https://static.wikia.nocookie.net/international-entertainment-project/images/9/9d/Scan2Go_poster.jpg/revision/latest/scale-to-width-down/1200?cb=20230821144158",
       "episodeInfo": "",
-      "genreIds": [
-        1,
-        2,
-        3
-      ]
+      "genreIds": [1, 2, 3]
     }
   ],
   "genres": [
     {
       "id": 1,
-      "name": "Action"
+      "name": "Action",
+      "name_ar": "أكشن",
+      "name_fr": "Action"
     },
     {
       "id": 2,
-      "name": "Anime"
+      "name": "Anime",
+      "name_ar": "أنمي",
+      "name_fr": "Anime"
     },
     {
       "id": 3,
-      "name": "Horror"
+      "name": "Horror",
+      "name_ar": "رعب",
+      "name_fr": "Horreur"
     },
     {
       "id": 4,
-      "name": "Fantasy"
+      "name": "Fantasy",
+      "name_ar": "خيال",
+      "name_fr": "Fantastique"
     },
     {
       "id": 5,
-      "name": "Comedy"
+      "name": "Comedy",
+      "name_ar": "كوميديا",
+      "name_fr": "Comédie"
     },
     {
       "id": 6,
-      "name": "Crime"
+      "name": "Crime",
+      "name_ar": "جريمة",
+      "name_fr": "Crime"
     }
   ]
 }
+
