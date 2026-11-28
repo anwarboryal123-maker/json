@@ -382,43 +382,33 @@
       "episodeInfo": "",
       "genreIds": [1, 2, 3]
     },
-     {
-      "id": 16,
-      "movieId": 16,
-      "title": " Dr.yassin amri",
-      "title_ar": "الاستاد ياسين العمري ",
-      "title_fr": "Dr.yassin amri",
-      "recentlyAdded": true,
-      "type": "tv",
-      "animationForBeginners": true,
-      "overview": "After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.",
-      "overview_ar": "مرحبًا بكم في قناة ياسين العمري، وجهتكم للاستفادة من الدروس والمحاضرات الإسلامية والتربوية التي تسهم في تنمية الوعي، وتعزيز القيم الإيمانية والأخلاقية.
-
-نقدم لكم مجموعة من المقاطع الدعوية، والخواطر الإيمانية، والدروس المستفادة من القرآن الكريم والسنة النبوية، إلى جانب موضوعات تهم الشباب والأسرة والمجتمع.
-
-نسعى من خلال هذا المحتوى إلى نشر العلم النافع، والتذكير بالله، وتشجيع الجميع على التحلي بالأخلاق الحسنة والسعي إلى حياة أفضل.
-
-📌 اشتركوا في القناة وفعّلوا جرس التنبيهات ليصلكم كل جديد.
-
-نسأل الله أن يجعل هذا العمل خالصًا لوجهه الكريم، وأن ينفع به الجميع.
-
-#ياسين_العمري #الدروس_الإسلامية #محاضرات_دينية #التربية_الإسلامية #موعظة",
-      "overview_fr": "Après que leur père est appelé au travail, Walter et Danny sont confiés à leur sœur adolescente Lisa et doivent rester à la maison. Alors qu'ils s'attendent à passer une journée ennuyeuse, ils découvrent le jeu de société spatial Zathura. Ils réalisent qu'il possède des pouvoirs mystérieux lorsque leur maison est propulsée dans l'espace. Avec l'aide d'un astronaute, les garçons tentent de rentrer chez eux.",
-      "imageResId": 0,
-      "trailerVideo": 0,
-      "isTop10": true,
-      "quality": "4K",
-      "numberOfSeasons": 1,
-      "numberOfEpisodes": 52,
-      "releaseYear": 2005,
-      "isNetflixOriginal": false,
-      "netflixOriginalBadge": true,
-      "progress": 0,
-      "imageUrl": "https://archive.org/download/1795702654161/1795702654161.jpg",
-      "episodeInfo": "",
-       "sheikhs": true ,
-      "genreIds": [1, 2, 3]
-    }
+    {
+  "id": 16,
+  "movieId": 16,
+  "title": "Dr.yassin amri",
+  "title_ar": "الأستاذ ياسين العمري",
+  "title_fr": "Dr.yassin amri",
+  "recentlyAdded": true,
+  "type": "tv",
+  "animationForBeginners": true,
+  "overview": "The official channel of Yassine El Amri offers a variety of religious, educational, and intellectual lessons, lectures, and learning series covering a wide range of spiritual and social topics.\n\nIts content includes lessons on the Holy Quran, the Prophet's biography, Islamic education, spiritual development, and issues related to young people, families, and society. The channel aims to promote knowledge, awareness, and positive values.\n\nDiscover a collection of lectures and educational content that encourages reflection, learning, and personal development.",
+  "overview_ar": "القناة الرسمية للأستاذ ياسين العمري، تقدم مجموعة متنوعة من الدروس والمحاضرات والسلاسل العلمية والتربوية، التي تتناول مواضيع دينية وفكرية واجتماعية.\n\nتشمل محتويات القناة دروسًا في القرآن الكريم والسيرة النبوية والتربية الإيمانية وتزكية النفس، إلى جانب قضايا الشباب والأسرة والمجتمع، بهدف نشر الوعي والمعرفة وتعزيز القيم والأخلاق.\n\nاكتشفوا محاضرات ودروسًا متنوعة تسلط الضوء على قضايا الإنسان والمجتمع، وتدعو إلى التأمل والتعلم والاستفادة من العلم النافع.",
+  "overview_fr": "La chaîne officielle de Yassine El Amri propose une variété de cours, de conférences et de séries éducatives portant sur des sujets religieux, intellectuels et sociaux.\n\nSon contenu comprend des enseignements sur le Saint Coran, la biographie du Prophète, l'éducation islamique, le développement spirituel ainsi que des thèmes liés aux jeunes, à la famille et à la société. La chaîne vise à promouvoir le savoir, la sensibilisation et les valeurs positives.\n\nDécouvrez des conférences et des contenus éducatifs qui invitent à la réflexion, à l'apprentissage et au développement personnel.",
+  "imageResId": 0,
+  "trailerVideo": 0,
+  "isTop10": true,
+  "quality": "4K",
+  "numberOfSeasons": 1,
+  "numberOfEpisodes": 52,
+  "releaseYear": 2005,
+  "isNetflixOriginal": false,
+  "netflixOriginalBadge": true,
+  "progress": 0,
+  "imageUrl": "https://archive.org/download/1795702654161/1795702654161.jpg",
+  "episodeInfo": "",
+  "sheikhs": true,
+  "genreIds": [1, 2, 3]
+}
   ],
   "genres": [
     {
