@@ -402,7 +402,7 @@
   "numberOfEpisodes": 52,
   "releaseYear": 2005,
   "isNetflixOriginal": false,
-  "netflixOriginalBadge": true,
+  "netflixOriginalBadge": false,
   "progress": 0,
   "imageUrl": "https://archive.org/download/1795702654161/1795702654161.jpg",
   "episodeInfo": "",
